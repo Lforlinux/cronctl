@@ -19,12 +19,12 @@
     "type-check": "echo \"No TypeScript configuration found\" && exit 0"
   },
   "dependencies": {
-    "react": "^18.2.0",
+    "react": "^19.2.0",
     "react-dom": "^18.2.0",
     "cron-parser": "^4.9.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.43",
+    "@types/react": "^19.2.2",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.16",
